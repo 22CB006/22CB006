@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=22cb006&label=Profile%20views&color=0e75b6&style=flat" alt="22cb006" /> </p>
 
 - 🌱 I’m currently learning **Emerging technologies such as NextJS, authJS, ServiceNow**
-- 💬 Ask me about **Front-End Web Development | Backend Web Development | Databases SQL PostgreSQL |  Git, GitHub and Version Control | REST APIs | Authentication | MERN | Web Design | C++*
+- 💬 Ask me about *Front-End Web Development | Backend Web Development | Databases SQL PostgreSQL |  Git, GitHub and Version Control | REST APIs | Authentication | MERN | Web Design | C++*
 
 - 📫 How to reach me **aryalakshmisece@gmail.com**
 
