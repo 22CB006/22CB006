@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1iHHSvwB5LGQ_sEO4Ir6X3DVBjxTVbjAz/view?usp=sharing)
+
 <h1 align="center">Hi 👋, I'm ARYA LAKSHMI M</h1>
 <h3 align="center">A passionate Full Stack Developer and Software Engineer </h3>
 
