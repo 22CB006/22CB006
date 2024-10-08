@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aryalakshmisece@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10tbJzvjjherUNPZGEGZk9C18FjLtMq1l/view?usp=sharing](https://drive.google.com/file/d/10tbJzvjjherUNPZGEGZk9C18FjLtMq1l/view?usp=sharing)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1FWMxxeT6bX4woora4ZxX1Qp_Dnnk6rYJ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
