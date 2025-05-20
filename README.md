@@ -1,16 +1,66 @@
 <h1 align="center">Hi 👋, I'm ARYA LAKSHMI M</h1>
-<h3 align="center">A passionate Full Stack Developer and Software Engineer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=22cb006&label=Profile%20views&color=0e75b6&style=flat" alt="22cb006" />
-  <img src="https://img.shields.io/github/followers/22cb006?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
-- 💻 I love working on **MERN Stack, Full Stack Development, and Web Design**  
-- 💬 Ask me about **Front-End, Back-End, Databases (SQL, PostgreSQL), REST APIs, Git/GitHub, and more!**  
-- 📫 Reach me at **aryalakshmisece@gmail.com**  
+💻 A passionate **Full Stack Developer** with a love for crafting scalable, efficient, and user-friendly web applications. I enjoy building things that live on the internet, whether it's websites, applications, or anything in between. I'm currently diving deep into **cutting-edge tools** across frontend, backend, cloud, and AI.
 
 ---
+
+## 🧠 About Me
+
+- 💬 Ask me about **Full Stack Development, MERN Stack, REST APIs, Databases (MongoDB, SQL, PostgreSQL), and Web Design**
+- 📫 Reach me at **aryalakshmisece@gmail.com**
+- 🌱 Currently learning and experimenting with **Vector DBs, LLM integration, and Cloud Deployments**
+
+---
+
+## 🚀 Tech Stack I'm Exploring & Working With
+
+### 🧩 Frontend Development
+- **React.js**
+- **Figma** (for UI/UX prototyping and wireframing)
+
+### 🔧 Backend Development
+- **Node.js**
+- **Golang**
+- **Python**
+
+### 🗄️ Databases
+- **MongoDB**
+- **PostgreSQL**
+
+### 🧠 Vector Databases
+- **Weaviate**
+- **ChromaDB**
+
+### 💡 LLM & AI Technologies
+- **OpenAI (ChatGPT, Whisper)**
+- **Claude**
+- **Gemini**
+- **Groq**
+- **Grok**
+- **Ollama Models**
+
+### ☁️ Cloud Platforms
+- **Microsoft Azure**
+- **Amazon Web Services (AWS)**
+- **Google Cloud Platform (GCP)**
+
+
+### 📊 Testing & Analysis
+- **Playwright**
+- **Comparative Analysis**
+- **MCP Servers**
+
+---
+
+## 📚 Project Workflow & Tools
+
+- 🔄 **REST APIs**, **GraphQL**, and **CRUD Operations**
+- 📁 **Git**, **GitHub**, and **Version Control**
+- 📄 **Business Requirements Documents (BRD)**
+- 🗂️ **Project Documentation** & **Architecture Diagrams**
+
+---
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -20,11 +70,8 @@
   <a href="https://www.codechef.com/users/arya_lakshmi" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/@arya_lakshmi" target="_blank">
+  <a href="https://www.hackerrank.com/arya_lakshmi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/22cb006" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="CodeForces" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/arya_lakshmi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
@@ -36,6 +83,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" />
   </a>
 </p>
+
 
 ---
 
