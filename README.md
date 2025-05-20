@@ -9,7 +9,6 @@
 - 💻 I love working on **MERN Stack, Full Stack Development, and Web Design**  
 - 💬 Ask me about **Front-End, Back-End, Databases (SQL, PostgreSQL), REST APIs, Git/GitHub, and more!**  
 - 📫 Reach me at **aryalakshmisece@gmail.com**  
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1FWMxxeT6bX4woora4ZxX1Qp_Dnnk6rYJ/view?usp=drive_link)
 
 ---
 
