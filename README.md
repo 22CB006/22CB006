@@ -20,24 +20,3 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="32"/>
   </a>&nbsp;&nbsp;&nbsp;
 </p>
-
-
-
-
-
-<h3>Full Stack Development</h3>
-<ul>
-  <li><strong>Programming:</strong> Python, C++</li>
-  <li><strong>Frontend:</strong> HTML, CSS, JavaScript, React, Tailwind CSS, ShadCN UI</li>
-  <li><strong>Backend:</strong> FastAPI, Node.js, Express.js, REST APIs, SQLAlchemy</li>
-  <li><strong>Databases:</strong> SQL/NoSQL, MongoDB, MySQL, PostgreSQL</li>
-  <li><strong>Dev Tools:</strong> Git, GitHub Actions (CI/CD), Postman, PyCharm, Vercel, Render</li>
-</ul>
-
-<h3>AI Engineering</h3>
-<ul>
-  <li><strong>AI / ML & Data:</strong> NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow</li>
-  <li><strong>GenAI & Agentic AI:</strong> Generative AI, Prompt Engineering, RAG, LangChain, LangGraph, Crew AI, MCP</li>
-  <li><strong>Vector Databases:</strong> FAISS, Chroma</li>
-  <li><strong>AI & Productivity Tools:</strong> Cursor, Kiro, Github Copilot, Lovable, Notion, Notebook LLM, Bolt</li>
-</ul>
